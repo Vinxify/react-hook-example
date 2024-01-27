@@ -1,9 +1,9 @@
-import UseMemo from "./components/UseMemoExample.jsx";
+import CustomHookExample2 from "./components/CustomHookExample2.jsx";
 
 function App() {
   return (
     <div className='container mt-5'>
-      <UseMemo />
+      <CustomHookExample2 />
     </div>
   );
 }
